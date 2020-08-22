@@ -1,4 +1,4 @@
 # Air-BNB
 
 
-analysis of the dataset as well as the text and then predicting the price
+analysis of the Air-BnB data including text analysis and then predicting the price of stay per night.
